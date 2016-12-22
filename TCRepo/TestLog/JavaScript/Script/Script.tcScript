@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="TestLog_JavaScript" key="{09AD2EB8-376A-473A-82AC-8E09A5C46805}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="TestLog_JavaScript.js" />
+		</child>
+	</children>
+	<folders />
+</Root>

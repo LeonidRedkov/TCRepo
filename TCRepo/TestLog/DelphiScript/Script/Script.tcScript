@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="TestLog_DS" key="{99C8FF8F-28EC-4935-9465-86C3951EDF14}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="TestLog_DS.sd" />
+		</child>
+	</children>
+	<folders />
+</Root>
